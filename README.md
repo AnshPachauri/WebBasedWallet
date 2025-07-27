@@ -53,6 +53,9 @@ A secure web-based application to generate and manage cryptocurrency wallets rig
 
 ---
 
+<img src="./src/assets/screenshots/basic.png" alt="Copy Feedback UI" width="600"/>
+<img src="./src/assets/screenshots/hidden.png" alt="Copy Feedback UI" width="600"/>
+
 ## 🧱 Built With
 
 - [React](https://reactjs.org/)
